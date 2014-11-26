@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "jpeg_transport")
+set(jpeg_transport_MAINTAINER "x0221391 <x0221391@todo.todo>")
+set(jpeg_transport_DEPRECATED "")
+set(jpeg_transport_VERSION "0.0.0")
+set(jpeg_transport_BUILD_DEPENDS "OpenCV" "compressed_image_transport" "cv_bridge" "image_transport" "roscpp" "sensor_msgs" "std_msgs")
+set(jpeg_transport_RUN_DEPENDS "OpenCV" "compressed_image_transport" "cv_bridge" "image_transport" "roscpp" "sensor_msgs" "std_msgs")
+set(jpeg_transport_BUILDTOOL_DEPENDS "catkin")

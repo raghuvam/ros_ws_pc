@@ -1,0 +1,8 @@
+prefix=/user/x0221391/ros_ws/devel
+
+Name: hello_world
+Description: Description of hello_world
+Version: 0.0.0
+Cflags: 
+Libs: -L/user/x0221391/ros_ws/devel/lib 
+Requires: 

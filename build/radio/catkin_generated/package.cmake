@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "radio")
+set(radio_MAINTAINER "x0221391 <x0221391@todo.todo>")
+set(radio_DEPRECATED "")
+set(radio_VERSION "0.0.0")
+set(radio_BUILD_DEPENDS "message_generation" "roscpp" "std_msgs")
+set(radio_RUN_DEPENDS "roscpp" "std_msgs")
+set(radio_BUILDTOOL_DEPENDS "catkin")

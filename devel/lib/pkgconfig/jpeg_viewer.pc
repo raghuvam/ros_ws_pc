@@ -1,0 +1,8 @@
+prefix=/user/x0221391/ros_ws/devel
+
+Name: jpeg_viewer
+Description: Description of jpeg_viewer
+Version: 0.0.0
+Cflags: -I/user/x0221391/ros_ws/devel/include
+Libs: -L/user/x0221391/ros_ws/devel/lib 
+Requires: 

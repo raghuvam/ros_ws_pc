@@ -1,0 +1,8 @@
+prefix=/user/x0221391/ros_ws/devel
+
+Name: avp_streamcam
+Description: Description of avp_streamcam
+Version: 0.0.1
+Cflags: -I/user/x0221391/ros_ws/src/avp_streamcam/include
+Libs: -L/user/x0221391/ros_ws/devel/lib -lIPNC_client_streamcam
+Requires: roscpp std_msgs sensor_msgs image_transport cv_bridge

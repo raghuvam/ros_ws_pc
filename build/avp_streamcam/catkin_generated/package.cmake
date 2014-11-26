@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "avp_streamcam")
+set(avp_streamcam_MAINTAINER "chintan <chintan.kaur@gmail.com>")
+set(avp_streamcam_DEPRECATED "")
+set(avp_streamcam_VERSION "0.0.1")
+set(avp_streamcam_BUILD_DEPENDS "std_msgs" "sensor_msgs" "camera_info_manager" "image_transport" "roscpp" "cv_bridge")
+set(avp_streamcam_RUN_DEPENDS "std_msgs" "sensor_msgs" "camera_info_manager" "image_transport" "roscpp" "cv_bridge")
+set(avp_streamcam_BUILDTOOL_DEPENDS "catkin")

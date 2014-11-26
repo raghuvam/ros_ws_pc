@@ -1,0 +1,8 @@
+prefix=/user/x0221391/ros_ws/devel
+
+Name: catch_the_ball
+Description: Description of catch_the_ball
+Version: 0.0.0
+Cflags: -I/user/x0221391/ros_ws/devel/include
+Libs: -L/user/x0221391/ros_ws/devel/lib 
+Requires: 

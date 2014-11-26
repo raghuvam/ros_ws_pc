@@ -1,0 +1,35 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] [  0%] [  4%] Built target std_msgs_generate_messages_lisp
+Built target std_msgs_generate_messages_cpp
+Built target player
+[ 12%] Built target radio_tx
+Built target avp_streamcam
+[ 20%] [ 20%] Built target jpeg_edge_detect
+Built target canny_edges_viewer
+[ 24%] Built target jpeg_viewer_generate_messages_lisp
+[ 40%] [ 40%] Built target jpeg_viewer_generate_messages_py
+Built target jpeg_rotated
+[ 44%] Built target jpeg_viewer_generate_messages_cpp
+[ 84%] [ 88%] Built target catch_the_ball_generate_messages_lisp
+Built target catch_the_ball_generate_messages_cpp
+Built target catch_the_ball_generate_messages_py
+[ 92%] Built target game_server
+Scanning dependencies of target player_node
+[ 92%] Built target jpeg_viewer_generate_messages
+[ 96%] Built target publish_avpCamStream
+[100%] [100%] Building CXX object catch_the_ball/CMakeFiles/player_node.dir/src/player_node.cpp.o
+Built target catch_the_ball_generate_messages
+/user/x0221391/ros_ws/src/catch_the_ball/src/player_node.cpp:22:13: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
+Linking CXX executable /user/x0221391/ros_ws/devel/lib/catch_the_ball/player_node
+[100%] Built target player_node
+Base path: /user/x0221391/ros_ws
+Source space: /user/x0221391/ros_ws/src
+Build space: /user/x0221391/ros_ws/build
+Devel space: /user/x0221391/ros_ws/devel
+Install space: /user/x0221391/ros_ws/install
+####
+#### Running command: "make cmake_check_build_system" in "/user/x0221391/ros_ws/build"
+####
+####
+#### Running command: "make -j4 -l4" in "/user/x0221391/ros_ws/build"
+####

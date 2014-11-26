@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "catch_the_ball")
+set(catch_the_ball_MAINTAINER "x0221391 <x0221391@todo.todo>")
+set(catch_the_ball_DEPRECATED "")
+set(catch_the_ball_VERSION "0.0.0")
+set(catch_the_ball_BUILD_DEPENDS "message_generation" "roscpp" "sensor_msgs" "std_msgs")
+set(catch_the_ball_RUN_DEPENDS "message_runtime" "roscpp" "sensor_msgs" "std_msgs")
+set(catch_the_ball_BUILDTOOL_DEPENDS "catkin")
