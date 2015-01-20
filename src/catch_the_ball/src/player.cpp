@@ -33,6 +33,7 @@ bool player::throwTheBall(int fromPlayer,int playerID,ros::ServiceClient &thrw)
 	_msg.request.fromPlayer = fromPlayer;
 	_msg.request.playerID = playerID;
 	
+	
 	if(thrw.call(_msg))
 	{
 		return true;
